@@ -1,4 +1,4 @@
-<img height="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFtbnZ2ejk3cmd5NW9hdDMycHMxaGl5YTcyMW5hZGU0YW4wa3l2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" height="10%" style="position:relative" />
+<img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFtbnZ2ejk3cmd5NW9hdDMycHMxaGl5YTcyMW5hZGU0YW4wa3l2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" height="10%" style="position:relative" />
 
 <h1 align="center" style="color: white">Hi 👋, I'm Huseyn Zeynalov</h1>
 <h3 align="center"style="color:white">A data engineer with love in his profession</h3>
