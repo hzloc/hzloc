@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Infrastructure as a code, 12factors programming**
 
-- 📝 I regularly write articles on [doincreative.com](doincreative.com)
+- 📝 I regularly write articles on [doincreative.com](https://doincreative.com)
 
 - 💬 Ask me about **data engineering, python, airflow or anything you want to know**
 
