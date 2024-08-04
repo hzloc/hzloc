@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzlocs&label=Profile%20views&color=0e75b6&style=flat" alt="hzlocs" /> </p>
 
-- 🔭 I’m currently working on [artist-popularity-tracker](https://github.com/hzloc/artist-popularity-tracker)
+- 🔭 I’m currently working on [automated database migrations](https://github.com/hzloc/tf-postgres-automated-db-control)
+    using terraform on cloud aws using CI/CD pipelines
 
 - 🌱 I’m currently learning **Infrastructure as a code, 12factors programming**
 
